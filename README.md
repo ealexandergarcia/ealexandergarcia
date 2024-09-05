@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ealexandergarcia" alt="ealexandergarcia" /></a> </p>
 
-- 🌱 I’m currently learning **Python, HTML, CSS**
+- 🌱 I’m currently learning **Mongo,Express, Reactjs, NodeJs**
 
 - 📫 How to reach me **ealexandergarcia@outlook.com**
 
