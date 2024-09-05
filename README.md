@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edwin Garcia</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20👋,%20I'm%20Edwin%20Garcia&reversal=true"></img>
 <h3 align="center">A passionate developer from Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ealexandergarcia" alt="ealexandergarcia" /></a> </p>
